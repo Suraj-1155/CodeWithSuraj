@@ -1,7 +1,7 @@
 # CodeWithSuraj
 Jai Shree Ram
 
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Suraj Gupta
 
 💻 Passionate software developer with a focus on web development.
 
